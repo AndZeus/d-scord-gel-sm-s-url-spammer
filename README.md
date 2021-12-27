@@ -1,5 +1,6 @@
 # Discord Gelişmiş Url Spammer
-DİSCORD V12 GELİŞMİŞ URL SPAMMER
+
+DİSCORD V12 GELİŞMİŞ URL SPAMMER !
 
 Url aldıktan sonra oto bottan çıkış yapılır ve url aldım diye belirten kanala log atar.
 
